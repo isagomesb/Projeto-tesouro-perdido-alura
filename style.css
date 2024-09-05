@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    color:black;
+    display: flex     
+}
+
+    button {
+        background-color: antiquewhite;
+        color:black 
+    }
